@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/quatations/static/css/main.2a8b2f6f.chunk.css",
+    "main.js": "/quatations/static/js/main.8d9e19af.chunk.js",
+    "main.js.map": "/quatations/static/js/main.8d9e19af.chunk.js.map",
+    "runtime-main.js": "/quatations/static/js/runtime-main.75b2d2a3.js",
+    "runtime-main.js.map": "/quatations/static/js/runtime-main.75b2d2a3.js.map",
+    "static/js/2.23c4a4a7.chunk.js": "/quatations/static/js/2.23c4a4a7.chunk.js",
+    "static/js/2.23c4a4a7.chunk.js.map": "/quatations/static/js/2.23c4a4a7.chunk.js.map",
+    "static/js/3.75db1f45.chunk.js": "/quatations/static/js/3.75db1f45.chunk.js",
+    "static/js/3.75db1f45.chunk.js.map": "/quatations/static/js/3.75db1f45.chunk.js.map",
+    "index.html": "/quatations/index.html",
+    "static/css/main.2a8b2f6f.chunk.css.map": "/quatations/static/css/main.2a8b2f6f.chunk.css.map",
+    "static/js/2.23c4a4a7.chunk.js.LICENSE.txt": "/quatations/static/js/2.23c4a4a7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75b2d2a3.js",
+    "static/js/2.23c4a4a7.chunk.js",
+    "static/css/main.2a8b2f6f.chunk.css",
+    "static/js/main.8d9e19af.chunk.js"
+  ]
+}
